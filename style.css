@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+}
+span{
+    font-size: larger;
+    color: white;
+}
+
+.buscar{
+    background-color: aqua;
+}
+.btn{
+    text-align: center;
+    margin: 2em 2em 2em 2em;
+}
+
+.fotoavatar{
+    text-align: center;
+    background-color: grey;
+}
+
+.fa-brands{
+    margin-top: 20px;
+}
+
+.fa-twitter{
+    margin: 20px;
+}
+.fa-facebook{
+    margin: 20px;
+}
+.fa-github{
+    margin: 20px;
+}
+footer{
+    text-align: center;
+}
